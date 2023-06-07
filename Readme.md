@@ -6,6 +6,4 @@
 
 ###  Фото
 
-
-
-[def]: img/programmer-writing-code.jpg
+![](img/programmer-writing-code.jpg)
